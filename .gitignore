@@ -1,3 +1,7 @@
+# Specific to this application :
+.credentials.json
+
+
 # Logs
 logs
 *.log
