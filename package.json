@@ -1,0 +1,27 @@
+{
+  "name": "medium-article-writing-bot",
+  "version": "1.0.0",
+  "description": "A bot which creates and posts a blog post, utilising OpenAI, Google News, Blogger, and Unsplash",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krisrandall/medium-article-writing-bot.git"
+  },
+  "keywords": [
+    "OpenAI",
+    "Google",
+    "News",
+    "Blogger",
+    "and",
+    "Unsplash"
+  ],
+  "author": "Kris / Medium Muse",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/krisrandall/medium-article-writing-bot/issues"
+  },
+  "homepage": "https://github.com/krisrandall/medium-article-writing-bot#readme"
+}
